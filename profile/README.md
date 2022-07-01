@@ -8,7 +8,3 @@
 <strong>› [Economy](https://github.com/djs-modules/economy) - a module that allows you to create an economy system in your Discord bot.</strong> <br />
 <strong>› [Notifier](https://github.com/djs-modules/notifier) - a module that allows you to create a Twitch Notification System in your Discord bot.</strong> <br />
 <strong>› [Giveaways](https://github.com/djs-modules/giveaways) - a module that allows you to create a system of giveaways in your Discord bot.</strong> <br />
-
-## Note
-<strong>At this point, not all modules have been migrated from our old organizations.</strong> <br />
-<strong>As new modules become available, the list will be updated.</strong>
